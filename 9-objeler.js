@@ -182,7 +182,6 @@ let firmaninKazanci = siparis1ToplamFiyat + siparis2ToplamFiyat;
 
 console.log(`urun adi : ${siparisler[0].satinAlinanUrunler[0].myUrunAdi}`)
 console.log(`urun fiyati :${siparisler[0].satinAlinanUrunler[0].myUrunFiyati}`);
-
 console.log(`1. siparis icin odenen fiyat : ${siparis1ToplamFiyat}`);
 console.log(`2. siparis icin odenen fiyat : ${siparis2ToplamFiyat}`);
 console.log(`siparisid : ${siparisler[0].siparisId}`);
